@@ -1,0 +1,10 @@
+{
+	  "Firstname": "Nurtaza",
+  	"Lastname": "Abdiev",
+  	"Age": "19",
+  	"University": "Osh State University",
+  	"Faculty": "Mathematics and Information Technology",
+  	"Favorite_films" ["Shawshank Redemption", "Forrest Gump", "Mario Puzo's The Godfather", "Life of Pi",]
+    "Favorite_singers" ["Eminem", "MiyaGi & Endshpil", "Scriptonit", "Linkin Park", "OneRepublic", "Avicii",]
+  	"Hobbies": ["photograph", "video", "programming",]
+}
